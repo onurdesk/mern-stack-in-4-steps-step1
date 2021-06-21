@@ -1,4 +1,4 @@
-# Mern-stack-in-4-steps
+# Mern-stack-in-4-steps  | by [onurdesk](https://onurdesk.com/)
 ## Step one
 
 The MERN stack is very similar to that of the popular [MEAN stack](https://onurdesk.com/how-to-create-a-mern-stack-app-in-4-steps-section-1/). The only distinction here is that the MEAN stack uses Angular to construct a front-end web server, and the MERN stack uses [React instead](https://onurdesk.com/8-fascinating-reasons-people-like-react-js/).
